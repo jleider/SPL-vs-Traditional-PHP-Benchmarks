@@ -5,3 +5,9 @@ To use this benchmark suite run the following where # is the number of iteration
 Example:
 
 ./SPLTests.sh 20
+
+
+Original tests came from:
+
+http://blueparabola.com/blog/spl-deserves-some-reiteration
+
