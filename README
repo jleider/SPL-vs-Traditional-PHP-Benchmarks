@@ -1,0 +1,7 @@
+To use this benchmark suite run the following where # is the number of iterations to run:
+
+./SPLTests.sh [#] 
+
+Example:
+
+./SPLTests.sh 20
